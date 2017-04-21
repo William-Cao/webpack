@@ -522,3 +522,4 @@ We had other sources of donations before starting to use OpenCollective. We want
 
 [cover]: https://img.shields.io/coveralls/webpack/webpack.svg
 [cover-url]: https://coveralls.io/r/webpack/webpack/
+# webpack
